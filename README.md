@@ -1,2 +1,2 @@
 # JavaCodePracticeImprovement
-A Personal Repo to workaround improving logical programming with Java.
+A Personal Repo to work on improving logical programming with Java.
